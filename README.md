@@ -1,5 +1,5 @@
 # Portfolio Pessoal
-Acesse o Portfólio >> https://amsmartins.github.io/
+- 🖱️ [Clique aqui](https://amsmartins.github.io) para acessar o site.
 
 ## Demonstação da Página
 #### Página Inicial
