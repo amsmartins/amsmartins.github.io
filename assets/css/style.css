@@ -1197,8 +1197,8 @@ input {
 
     .about__data .about__heading {
         justify-self: center;
-        font-size: 2rem;
-        margin-left: 10px;
+        font-size: 1.5rem;
+        /* margin-left: 10px;*/
     }
 
     .about__img {
@@ -1232,6 +1232,10 @@ input {
 
     .footer__links {
         justify-self: flex-start;
+    }
+
+    .scroll__up {
+        display: none;
     }
 
 }
