@@ -1,5 +1,5 @@
 # Portfolio Pessoal
-Acesse o Portfólio >> https://amsmartins.github.io/
+- 🖱️ [Clique aqui](https://amsmartins.github.io) para acessar o site.
 
 ## Demonstação da Página
 #### Página Inicial
@@ -42,13 +42,10 @@ São bem-vindos:
 - 👯 Clone na sua máquina local.
 - 🔃 Pull request.
 <br>
-Para grandes mudanças, por favor, abra primeiro uma issue discutir o que gostaria de mudar.
-<<<<<<< HEAD
-<br>
-=======
-<hr>
->>>>>>> main
+Para grandes mudanças, por favor, abra primeiro uma issues para discutir o que poderia ser mudado.
 
+
+<hr>
 <div align="center">
 <a href="https://github.com/amsmartins">
 <img src="https://avatars.githubusercontent.com/u/89283901?v=4" width="150px;" alt="Image da AMSM"/>
