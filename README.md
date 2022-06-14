@@ -43,12 +43,9 @@ São bem-vindos:
 - 🔃 Pull request.
 <br>
 Para grandes mudanças, por favor, abra primeiro uma issue discutir o que gostaria de mudar.
-<<<<<<< HEAD
-<br>
-=======
-<hr>
->>>>>>> main
 
+
+<hr>
 <div align="center">
 <a href="https://github.com/amsmartins">
 <img src="https://avatars.githubusercontent.com/u/89283901?v=4" width="150px;" alt="Image da AMSM"/>
