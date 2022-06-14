@@ -43,7 +43,11 @@ São bem-vindos:
 - 🔃 Pull request.
 <br>
 Para grandes mudanças, por favor, abra primeiro uma issue discutir o que gostaria de mudar.
+<<<<<<< HEAD
 <br>
+=======
+<hr>
+>>>>>>> main
 
 <div align="center">
 <a href="https://github.com/amsmartins">
