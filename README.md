@@ -43,7 +43,7 @@ Para grandes mudanças, por favor, abra primeiro uma issue discutir o que gostar
 </div>	
 <h4 align="center">
    Feito com 💙 by <a href="https://www.linkedin.com/in/amsmartins/" target="_blank">Anyla Martins</a>
-</h4><
+</h4><hr>
 
 
 ## License
