@@ -1,8 +1,17 @@
 # Portfolio Pessoal
-> https://amsmartins.github.io/
+Acesse o Portfólio >> https://amsmartins.github.io/
 
 ## Demonstação da Página
+#### Página Inicial
+<img src="website-img/home-page.png" width="900">
 
+
+#### Sobre Mim
+<img src="website-img/aboutme.png" width="900">
+
+
+#### Projetos
+<img src="website-img/projects.png" width="900">
 
 ⭐ Deixe uma Star, por favor. Vai me ajudar muito.
 
@@ -24,7 +33,7 @@
 
 
 ## Observações
-- Responsivo
+✔ Responsivo
 
 
 ## Contribuições
@@ -34,7 +43,7 @@ São bem-vindos:
 - 🔃 Pull request.
 <br>
 Para grandes mudanças, por favor, abra primeiro uma issue discutir o que gostaria de mudar.
-
+<br>
 
 <div align="center">
 <a href="https://github.com/amsmartins">
@@ -43,7 +52,7 @@ Para grandes mudanças, por favor, abra primeiro uma issue discutir o que gostar
 </div>	
 <h4 align="center">
    Feito com 💙 by <a href="https://www.linkedin.com/in/amsmartins/" target="_blank">Anyla Martins</a>
-</h4><hr>
+</h4>
 
 
 ## License
