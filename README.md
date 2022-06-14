@@ -29,10 +29,10 @@
 
 ## Contribuições
 São bem-vindos:  
-🍴 Forks
-👯 Clone na sua máquina local.
-🔃 Pull request.
-
+- 🍴 Forks
+- 👯 Clone na sua máquina local.
+- 🔃 Pull request.
+<br>
 Para grandes mudanças, por favor, abra primeiro uma issue discutir o que gostaria de mudar.
 
 
