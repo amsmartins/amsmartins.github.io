@@ -42,7 +42,7 @@ São bem-vindos:
 - 👯 Clone na sua máquina local.
 - 🔃 Pull request.
 <br>
-Para grandes mudanças, por favor, abra primeiro uma issue discutir o que gostaria de mudar.
+Para grandes mudanças, por favor, abra primeiro uma issues para discutir o que poderia ser mudado.
 
 
 <hr>
